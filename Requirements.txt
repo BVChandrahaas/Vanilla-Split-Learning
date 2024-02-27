@@ -1,0 +1,4 @@
+Tensorflow = 2.15.0
+Keras
+Python = 3.11
+Dataset = MNIST
