@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ### Step 1: Clone Repository
 
 <pre>
-git clone https://github.com/yourusername/Vanilla_Split.git
+git clone https://github.com/BVChandrahaas/Vanilla_Split.git
 cd Vanilla_Split
 </pre>
 ### Step 2: Set Up Virtual Environment (Optional)
